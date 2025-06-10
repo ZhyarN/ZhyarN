@@ -69,7 +69,7 @@
       
     </details>
     
-   - **University of Sulaimani **  
+   - **University of Sulaimani**  
     **Degree:** B.Sc.  
     **Subject:** Physics  
     **Year:** 2013-2017  
