@@ -147,23 +147,34 @@
 ## Inputs, Presentations, Conferences, Events, Guest Invitations
 <details>
   <summary>Click to expand</summary>
-  
-  - **[Event Name]**  
-    **Role:** [Speaker/Panelist/etc.]  
-    **Location:** [Venue or Online]  
-    **Date:** [Date]  
+
+  - **Conference: Climate change and vulnerability – 5th annual Just Climate Transitions Conference**
+    **Title: ** 
+    **Role:** Presenter 
+    **Location:** University of Potsdam
+    **Date:** 17.06. - 18.06.2025
     <details>
       <summary>More details</summary>
-      Description: Add text here myself  
+      Link: https://justclimatetransitions.com/cfp-climate-change-and-vulnerability-5th-annual-just-climate-transitions-conference/
+    </details>
+  
+  - **Input: Art and Climate Justice**  
+    **Role:** Input Presenter 
+    **Location:** Klasse Klima _ Universität der Künste Berlin
+    **Date:** 20.09.2024
+    <details>
+      <summary>More details</summary>
+      Link:   
     </details>
 
-      - **[Event Name]**  
-    **Role:** [Speaker/Panelist/etc.]  
-    **Location:** [Venue or Online]  
-    **Date:** [Date]  
+  - **Conference: 11th Annual Conference "Contemporary Philosophical Issues Junior**
+    **Title: Are we Justified in being Naive Realists through the "No-Miracles Argument"**  
+    **Role:** Presenter  
+    **Location:** Online   
+    **Date:** 11.06. - 12.06.2021  
     <details>
       <summary>More details</summary>
-      Description: Add text here myself  
+      Link: https://www.youtube.com/watch?v=qR-gc62w-bU&t=172s
     </details>
   
 </details>
