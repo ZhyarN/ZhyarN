@@ -156,6 +156,15 @@
       <summary>More details</summary>
       Description: Add text here myself  
     </details>
+
+      - **[Event Name]**  
+    **Role:** [Speaker/Panelist/etc.]  
+    **Location:** [Venue or Online]  
+    **Date:** [Date]  
+    <details>
+      <summary>More details</summary>
+      Description: Add text here myself  
+    </details>
   
 </details>
 
