@@ -36,7 +36,7 @@
 ## Education
 
   
-  - **Bergische Universität Wuppertal **  
+  - **Bergische Universität Wuppertal**  
     **Degree:** M.Sc.  
     **Subject:** Computer Simulation in Science  
     **Year:** 2023-Now  
@@ -51,7 +51,7 @@
     </details>
 
     
-  - **Leibniz Universität Hannover **  
+  - **Leibniz Universität Hannover**  
     **Degree:** M.A.  
     **Subject:** Philosophy of Science  
     **Year:** 2020-2023  
@@ -149,7 +149,7 @@
   <summary>Click to expand</summary>
 
   - **Conference: Climate change and vulnerability – 5th annual Just Climate Transitions Conference**
-    **Title: ** 
+    **Title:** 
     **Role:** Presenter 
     **Location:** University of Potsdam
     **Date:** 17.06. - 18.06.2025
