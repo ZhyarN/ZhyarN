@@ -155,7 +155,7 @@
     **Date:** 17.06. - 18.06.2025
     <details>
       <summary>More details</summary>
-      Link: https://justclimatetransitions.com/cfp-climate-change-and-vulnerability-5th-annual-just-climate-transitions-conference/
+      Link: https://www.uni-potsdam.de/fileadmin/projects/ls-poltheorie/pdfs/posterjctwebsite.pdf
     </details>
   
   - **Input: Art and Climate Justice**  
