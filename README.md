@@ -2,9 +2,9 @@
 
 ## Who I am
 
-![My Profile Pic](<p align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/yourusername/Photos/main/a.webp" width="150" style="border-radius: 50%;" />
-</p>)
+</p>
   
   I am a Philosopher and a Computer Scientist with interest both in research and project development. I am both interested and working on the philosophical and scientific issues surrounding Climate Modelling, Simulations, and AI along with their respective Epistemological and Ethical challenges. I am also recently interested in Game Development through Unreal Engines.
   
