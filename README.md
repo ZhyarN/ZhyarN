@@ -20,7 +20,9 @@
     **Year:** 2024-Now
     <details>
       <summary>More details</summary>
-      Description: Add text here myself  
+      a cross-disciplinary laboratory at Technical University Berlin that addresses the societal challenges brought by Artificial Intelligence (AI) and robotics. I served as a Wissenschaftlicher Mitarbeiter with the following responsibilities:
+      - Research and development on tools for responsible technology development in the early and structured exploration of emerging technologies and artefact practices. They are aimed aat identifying ethically relevant questions, critically evaluating emerging technologies in their socio-technical and environmental contexts, and developing responsible design options that can inform further research and innovation. [Tools invovled in development: DEPENDENCY TREE used for identifying and mapping prerequisites and consequences of a certainemerging technology or artefact and the relations between them https://zenodo.org/records/21103279 , MAPPING SOCIO-TECHNICAL-ENVIRONMENTAL CONSTELLATIONS used for mapping relations between different entities and elements of complex systems to make complex interdependencies of socio-technical-environmental constellations visible and discussable https://zenodo.org/records/21103125 , ROLE PLAYING GAME ON VALUES used for reflecting on values, simulate value discussions, identifying value conflicts, and considering resolutions through the technology design based on different roles involved with the technology https://zenodo.org/records/21103184]
+      -
     </details>
 
   - **Research and Laboratory Assistant for Physics**  
