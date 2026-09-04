@@ -27,7 +27,7 @@
         
       - Teaching project seminar (**4 SWS, 6 ECTS**) on **Ethical, Social, and Environmental Challenges on Emerging Technologies - Green Technologies between Climate Justice and Technofixes** for four semesters between **WiSe 2024/5 - SoSe 2026**. (60 Contact hours x 4 occassions = **240 hours of teaching**).
    
-      - Tasked with IT Responsibilities of the Lab: Responsible for the maintainance and archiving of the Cloud and Storage data of the lab, Preperation and reperation of all IT-related meeting responsibilities (online and offline), Handling tech-related local issues...etc. 
+      - Tasked with **IT Responsibilities** of the Lab: Responsible for the **maintainance and archiving of the Cloud and Storage** data of the lab, Preperation and reperation of all IT-related meeting responsibilities (online and offline), Handling tech-related local issues...etc. 
         
       - Publications Involved with:
           - From Innovation to Responsibility. A Companion for Integrated Technology Ethics and Assessment [Broschure: Published on 2026] https://zenodo.org/records/21009187
